@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: os0
+Version: 0.2.14
+Summary: OS indipendent interface
+Home-page: http://wiki.zeroincombenze.org/en/Python/opt/os0
+Author: Antonio M. Vigliotti
+Author-email: antoniomaria.vigliotti@gmail.com
+License: Affero: GPL
+Description: 
+        Manage both URI both local filenames.
+        
+Keywords: os path linux windows openvms
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Operating System :: OS Independent
